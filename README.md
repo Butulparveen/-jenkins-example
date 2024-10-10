@@ -7,3 +7,4 @@
 
 
 Updating the file.
+In Ec2 instance Opening Ubuntu on local machine through jenkins to github.
