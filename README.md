@@ -4,3 +4,7 @@
 - if the number is divisible by 3, you say Fizz
 - if the number is divisible by 5, you say Buzz
 - if neither, you say the number
+
+
+Updating the file.
+In Ec2 instance Opening Ubuntu on local machine through jenkins to github.
